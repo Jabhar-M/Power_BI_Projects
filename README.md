@@ -1,2 +1,0 @@
-# WhatsAppDev
-for Chat Application
